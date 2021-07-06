@@ -1,0 +1,6 @@
+﻿  App1.cpp
+C:\Users\mcdhr\source\repos\App1\App1\App1.cpp(82,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\mcdhr\source\repos\App1\App1\App1.cpp(82,21): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\mcdhr\source\repos\App1\App1\App1.cpp(82,21): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\mcdhr\source\repos\App1\App1\App1.cpp(82,21): message : this argument is used as a buffer size
+  App1.vcxproj -> C:\Users\mcdhr\source\repos\App1\Debug\App1.exe
